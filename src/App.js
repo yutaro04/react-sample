@@ -32,7 +32,7 @@ class AddNote extends Component {
           placeholder="New Note"
           style={styles.input}
         />
-        <button onClick={this.handleClick} style={styles.addButton}>Add Noteです</button>
+        <button onCladdButton}>Add Noteです</button>
       </div>
     );
   }
